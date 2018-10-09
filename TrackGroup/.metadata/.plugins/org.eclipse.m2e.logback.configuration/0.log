@@ -1,0 +1,89 @@
+2018-10-08 00:26:40,240 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-10-08 00:27:37,061 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-08 00:27:46,662 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.singhlovepreet:SpringBoot:0.0.1-SNAPSHOT @ C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\pom.xml.
+2018-10-08 00:27:55,163 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Boot-JPA/src/main/java
+2018-10-08 00:27:55,164 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring-Boot-JPA/src/main/resources
+2018-10-08 00:27:55,233 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring-Boot-JPA/src/main/resources
+2018-10-08 00:27:55,362 [Worker-2: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Boot-JPA/src/test/java
+2018-10-08 00:27:59,422 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:27:59,452 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:27:59,476 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:27:59,481 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:27:59,482 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:28:05,185 [Worker-2: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 28 sec
+2018-10-08 00:28:05,236 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:28:05,244 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:28:05,264 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:28:05,268 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:28:05,268 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:29:22,522 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:29:22,523 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:29:22,524 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:29:22,528 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:29:22,528 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:29:34,635 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-10-08 00:30:23,087 [Worker-6: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-08 00:30:23,089 [Worker-6: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-08 00:30:59,295 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:30:59,298 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:30:59,304 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:30:59,309 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:30:59,309 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:32:15,859 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:32:15,861 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:32:15,868 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:32:15,874 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:32:15,875 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:32:33,855 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-08 00:32:34,021 [Worker-7: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-08 00:32:34,021 [Worker-7: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-08 00:39:57,850 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:39:57,852 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:39:57,856 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:39:57,863 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:39:57,863 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 00:39:58,950 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:39:58,952 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 00:39:58,956 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 00:39:58,961 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 00:39:58,962 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 03:30:15,697 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-08 03:31:12,590 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-08 03:31:13,265 [Worker-4: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-08 03:31:13,267 [Worker-4: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-08 11:09:44,846 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-08 11:10:14,096 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 11:10:14,118 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-08 11:10:14,153 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-08 11:10:14,160 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-08 11:10:14,161 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-08 11:11:58,759 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-08 11:11:59,350 [Worker-11: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-08 11:11:59,353 [Worker-11: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-08 23:04:22,540 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-08 23:06:11,032 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-08 23:06:11,723 [Worker-10: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-08 23:06:11,744 [Worker-10: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-09 01:22:17,178 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-10-09 01:23:12,135 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-09 01:23:12,644 [Worker-0: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-09 01:23:12,645 [Worker-0: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-09 02:08:44,781 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-09 02:09:16,650 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:09:16,671 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-09 02:09:16,740 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-09 02:09:16,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:09:16,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-09 02:09:31,619 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-10-09 02:09:33,076 [Worker-0: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA
+2018-10-09 02:09:33,078 [Worker-0: Launching Spring-Boot-JPA] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2018-10-09 02:29:42,498 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:29:42,548 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-09 02:29:42,549 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-09 02:29:42,553 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:29:42,553 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
+2018-10-09 02:37:17,927 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:37:17,928 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-09 02:37:17,930 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-09 02:37:17,937 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-09 02:37:17,937 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Test\Desktop\Eclipse\workspace\TrackGroup\Towing_Trailer_RestAPI\Spring-Boot-JPA\src\test\resources
